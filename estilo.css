@@ -19,7 +19,7 @@
     margin-bottom: 30px;
   }  
   .jumbotron {
-    background-blend-mode:url(nl-capa.png);
+    background:url(nl-capa.png);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
